@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-![giphy](https://giphy.com/embed/fxfGR5QcTqxWrbvsxT)
-
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/fxfGR5QcTqxWrbvsxT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/viuhub-fxfGR5QcTqxWrbvsxT">via GIPHY</a></p>
-
+<div>
+    <img align=top src="https://media2.giphy.com/media/fxfGR5QcTqxWrbvsxT/giphy.gif?cid=790b761163ffad4e44b92d8c8c26b3ce90211615768e23df&rid=giphy.gif&ct=g"/>
+<div>
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about C#
 - 📫 How to reach me: orhanardaozbek@gmail.com
 
-
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhanozbek&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=orhanozbek&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
