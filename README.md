@@ -4,7 +4,6 @@
     <img align=top src="https://media2.giphy.com/media/fxfGR5QcTqxWrbvsxT/giphy.gif?cid=790b761163ffad4e44b92d8c8c26b3ce90211615768e23df&rid=giphy.gif&ct=g"/>
 <div>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Blog Project
 - 🌱 I’m currently learning Asp.net Core
